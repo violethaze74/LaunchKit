@@ -17,4 +17,4 @@ redis==2.10.3
 requests==2.5.3
 sqlalchemy==0.9.8
 tweepy==3.3.0
-ua-parser==0.3.6
+ua-parser==0.15.0
