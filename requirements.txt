@@ -13,7 +13,7 @@ psycopg2==2.5.4
 pycrypto==2.6.1
 pylint==0.28.0
 python-memcached==1.53
-redis==2.10.3
+redis==4.5.3
 requests==2.5.3
 sqlalchemy==0.9.8
 tweepy==3.3.0
